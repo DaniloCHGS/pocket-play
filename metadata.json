@@ -1,0 +1,5 @@
+{
+  "name": "Pocket Play",
+  "description": "Um player de vídeo offline mobile-first que permite carregar vídeos locais, rastreia seu progresso de reprodução e retoma exatamente de onde você parou.",
+  "requestFramePermissions": []
+}
