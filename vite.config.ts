@@ -26,11 +26,6 @@ export default defineConfig(({ mode }) => {
           icons: [
             {
               src: "pwa-film.png",
-              sizes: "192x192",
-              type: "image/png",
-            },
-            {
-              src: "pwa-film.png",
               sizes: "512x512",
               type: "image/png",
             },
