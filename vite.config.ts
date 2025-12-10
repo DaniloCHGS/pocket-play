@@ -25,9 +25,20 @@ export default defineConfig(({ mode }) => {
           start_url: "/",
           icons: [
             {
-              src: "pwa-film.png",
+              src: "pwa-film-192.png",
+              sizes: "192x192",
+              type: "image/png",
+            },
+            {
+              src: "pwa-film-512.png",
               sizes: "512x512",
               type: "image/png",
+            },
+            {
+              src: "pwa-film-maskable-512.png",
+              sizes: "512x512",
+              type: "image/png",
+              purpose: "maskable",
             },
           ],
         },
