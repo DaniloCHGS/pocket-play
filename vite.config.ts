@@ -25,12 +25,12 @@ export default defineConfig(({ mode }) => {
           start_url: "/",
           icons: [
             {
-              src: "https://lucide.dev/icons/film",
+              src: "pwa-film.png",
               sizes: "192x192",
               type: "image/png",
             },
             {
-              src: "https://lucide.dev/icons/film",
+              src: "pwa-film.png",
               sizes: "512x512",
               type: "image/png",
             },
